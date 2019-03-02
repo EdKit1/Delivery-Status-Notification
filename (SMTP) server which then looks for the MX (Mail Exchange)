@@ -1,0 +1,69 @@
+Hello GitHub;
+
+It has been a very long time since I have worked directly with computer software.
+I started using computers when Microsoft (DOS 3.2) was released using (5 1/4") floppies. 
+Many years ago I designed a top down chart for a plastic moulding manufacture to fully 
+operate from using many calculations, foot work, manual paper work,
+to a fully modern automated manufacturing company using computer software.  
+At the time (C+) compiler was the best to use.
+Also through the many decades, I have become very aware how trojans and worms operate.  
+
+I have been using Thunderbird email for many decades from the very beginning.
+Around February 21, 2019 I received a Thunderbird Email update,
+(60.5.1.exe) then updated again to (60.5.2.exe). (Lightning Version ?)
+
+When it comes to email security, you have totally deleted a very very important secure feature.
+Only Thunderbird email software had this very important email secure feature.
+RE: "Delivery Status Notification".
+For me when "Delivery Status Notification" was still available, 
+I could insure (100%) that my (business, lawyers, tax forms, etc.) were received.
+
+Support Forum:
+Thunderbird no longer pings if email was received
+https://support.mozilla.org/en-US/questions/1251222?utm_campaign=questions-reply&utm_medium=email&utm_source=notification
+This is a Thunderbird support forum.
+There were (2) contributors that did not know how "Delivery Status Notification" actually worked.
+How to Verify an Email Address.. 
+Ping an Email Address to Validate it!.. When you send an email to someone, 
+the message goes to an SMTP server which then looks for the MX (Mail Exchange) records of the email recipient’s domain..
+
+Your previous versions of Thunderbird had this in your above "Option" folder.
+Add this very important secure email delivery to your new Thunderbird email "Option" location.
+Please, again add this very important secure email delivery to your new Thunderbird email "Option" location.
+Add a "Delivery Status Notification" option.
+Also especially notify that this very important option "Delivery Status Notification",
+* To insure that very important information was received 
+* Will ping an email address
+* Checking an (SMTP) server which then looks for the MX (Mail Exchange) records of the email recipient’s domain
+
+If the email was "correctly" received;
+A fully detailed "Delivery Status Notification" = email received.
+
+If the email was "not" received;
+A fully detailed "Delivery Status Notification" = email NOT received.
+Due To:
+* Email address no longer exists
+* Email sending format error, attachments (images, documents)
+
+The importance of "Validation", that an email was sent, that an email was received, 
+could be your greatest assist, because (99.99%) of individuals never knew that it previously existed.  
+
+Suggestion Only;
+To the right side of your [Quick Filter] icon
+add a very important simple [Email Received] icon 
+because no one individual even in 
+https://support.mozilla.org/en-US/questions/1251222?utm_campaign=questions-reply&utm_medium=email&utm_source=notification
+This is a Thunderbird support forum.
+knew what I meant by the word "Ping"...... 
+
+Return Receipt:
+The original message was received at Wed, 6 Feb 2019 14:40:40 GMT
+from ????.????.??a [00.0.000.00]
+----- The following addresses had successful delivery notifications -----
+<*******@gmail.com>  (relayed to non-DSN-aware mailer)
+<*******@t-online.de>  (relayed to non-DSN-aware mailer)
+
+Please consider this very important secure option.
+Thanks for your time.
+
+Best Regards; Ed.Kit1
